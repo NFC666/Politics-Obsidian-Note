@@ -1,9 +1,9 @@
 {
 	"nodes":[
-		{"id":"47a195401ece27e1","type":"text","text":"党的领导 #党的领导","x":-386,"y":-114,"width":250,"height":60},
-		{"id":"501227a5fb8b1087","type":"text","text":"党内法规","x":-386,"y":73,"width":250,"height":60},
-		{"id":"635021ac0ee83d68","type":"text","text":"中国特色社会主义","x":60,"y":-114,"width":250,"height":60},
-		{"id":"756d0f61aaf64597","type":"text","text":"中国特色社会主义法治体系","x":60,"y":73,"width":250,"height":60}
+		{"id":"47a195401ece27e1","type":"text","text":"党的领导 #党的领导","x":-386,"y":-114,"width":250,"height":60,"color":"1"},
+		{"id":"501227a5fb8b1087","type":"text","text":"党内法规","x":-386,"y":73,"width":250,"height":60,"color":"2"},
+		{"id":"635021ac0ee83d68","type":"text","text":"中国特色社会主义","x":60,"y":-114,"width":250,"height":60,"color":"2"},
+		{"id":"756d0f61aaf64597","type":"text","text":"中国特色社会主义法治体系","x":60,"y":73,"width":250,"height":60,"color":"3"}
 	],
 	"edges":[
 		{"id":"533cebf6a243c511","fromNode":"47a195401ece27e1","fromSide":"bottom","toNode":"501227a5fb8b1087","toSide":"top"},
