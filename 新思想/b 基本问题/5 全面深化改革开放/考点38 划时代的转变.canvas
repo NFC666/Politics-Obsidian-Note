@@ -2,9 +2,9 @@
 	"nodes":[
 		{"id":"7210fb2d12a5ba68","type":"text","text":"现在","x":420,"y":-69,"width":250,"height":60},
 		{"id":"9d4f82c04fd80f35","type":"text","text":"1978","x":-520,"y":-69,"width":250,"height":60},
-		{"id":"fe6afe25ab5a627b","type":"text","text":"十一届三中全会","x":-520,"y":-200,"width":250,"height":60,"color":"1"},
+		{"id":"fe6afe25ab5a627b","type":"text","text":"[[考点96 十一届三中全会|十一届三中全会]] #十一届三中全会 ","x":-520,"y":-200,"width":250,"height":60,"color":"1"},
 		{"id":"ce02afe885b498ed","type":"text","text":"2013","x":-120,"y":-69,"width":250,"height":60},
-		{"id":"60ef5324e9f3aaf3","type":"text","text":"十八届三中全会","x":-120,"y":-200,"width":250,"height":60,"color":"1"}
+		{"id":"60ef5324e9f3aaf3","type":"text","text":"十八届三中全会 #十八届三中全会 ","x":-120,"y":-200,"width":250,"height":60,"color":"1"}
 	],
 	"edges":[
 		{"id":"9763b0778a9a9bfd","fromNode":"9d4f82c04fd80f35","fromSide":"right","toNode":"ce02afe885b498ed","toSide":"left"},
