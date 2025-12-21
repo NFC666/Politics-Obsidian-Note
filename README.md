@@ -118,7 +118,13 @@
 
 ## 授权信息 (Licensing)
 
-许可证：[GNU GPLv3](https://www.gnu.org/licenses/gpl-3.0.html)
+许可证：[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
-本分支（'2025-GPLv3'）及其历史版本依据 **GPLv3** 协议授权。
-- 权利保留：用户永久保留 GPLv3 赋予的修改与再发布权利。
+本分支及其后续版本依据 **知识共享 署名-相同方式共享 4.0 国际协议** 授权发布。
+
+### 您的义务
+
+1. **署名 (BY)**：转载或二次创作须注明原作者 `XColorful` 及 [本仓库链接](https://github.com/XColorful/Politics-Obsidian-Note)。
+2. **相同方式共享 (SA)**：衍生作品必须继续使用 **CC BY-SA 4.0** 协议发布。
+
+> _注：历史版本 [Release 2025-GPLv3 · XColorful/Politics-Obsidian-Note](https://github.com/XColorful/Politics-Obsidian-Note/releases/tag/GPLv3) 仍保留 GPLv3 授权。_
