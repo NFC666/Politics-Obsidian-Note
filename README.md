@@ -116,3 +116,9 @@
 
 而是成为人与世界互相改变的过程。
 
+## 授权信息 (Licensing)
+
+许可证：[GNU GPLv3](https://www.gnu.org/licenses/gpl-3.0.html)
+
+本分支（'2025-GPLv3'）及其历史版本依据 **GPLv3** 协议授权。
+- 权利保留：用户永久保留 GPLv3 赋予的修改与再发布权利。
