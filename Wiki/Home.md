@@ -16,27 +16,27 @@
 
 |说明|图片|
 |:--|:-:|
-|下载[Github Desktop](https://desktop.github.com/download/)|![下载Github Desktop](https://github.com/XColorful/Politics-Obsidian-Note/raw/2025-GPLv3/Wiki/Download%20Github%20Desktop.png)![下载ing](https://github.com/XColorful/Politics-Obsidian-Note/raw/2025-GPLv3/Wiki/downloading%20Github%20Desktop.png)安装界面：![安装界面](https://github.com/XColorful/Politics-Obsidian-Note/raw/2025-GPLv3/Wiki/install%20Github%20Desktop.png)|
-|到[仓库页面](https://github.com/XColorful/Politics-Obsidian-Note)点击绿色的`<>Code ▼`，点击`Open with Github Desktop`|![点击Code](https://github.com/XColorful/Politics-Obsidian-Note/raw/2025-GPLv3/Wiki/Open%20With%20Github%20Desktop.png)|
-|点击`Open`|![浏览器打开GithubDesktop](https://github.com/XColorful/Politics-Obsidian-Note/raw/2025-GPLv3/Wiki/Open%20GithubDesktop.png)|
-|在`Local path`里选择本地仓库目录（`Politics-Obsidian-Note`），点击`Clone`等待下载|![选择本地仓库目录](https://github.com/XColorful/Politics-Obsidian-Note/raw/2025-GPLv3/Wiki/Local%20path.png)![下载仓库](https://github.com/XColorful/Politics-Obsidian-Note/raw/2025-GPLv3/Wiki/Clone%20Repo.png)|
+|下载[Github Desktop](https://desktop.github.com/download/)|![下载Github Desktop](https://github.com/XColorful/Politics-Obsidian-Note/raw/2025/Wiki/Download%20Github%20Desktop.png)![下载ing](https://github.com/XColorful/Politics-Obsidian-Note/raw/2025/Wiki/downloading%20Github%20Desktop.png)安装界面：![安装界面](https://github.com/XColorful/Politics-Obsidian-Note/raw/2025/Wiki/install%20Github%20Desktop.png)|
+|到[仓库页面](https://github.com/XColorful/Politics-Obsidian-Note)点击绿色的`<>Code ▼`，点击`Open with Github Desktop`|![点击Code](https://github.com/XColorful/Politics-Obsidian-Note/raw/2025/Wiki/Open%20With%20Github%20Desktop.png)|
+|点击`Open`|![浏览器打开GithubDesktop](https://github.com/XColorful/Politics-Obsidian-Note/raw/2025/Wiki/Open%20GithubDesktop.png)|
+|在`Local path`里选择本地仓库目录（`Politics-Obsidian-Note`），点击`Clone`等待下载|![选择本地仓库目录](https://github.com/XColorful/Politics-Obsidian-Note/raw/2025/Wiki/Local%20path.png)![下载仓库](https://github.com/XColorful/Politics-Obsidian-Note/raw/2025/Wiki/Clone%20Repo.png)|
 
 #### 2. 下载Obsidian
 
 |说明|图片|
 |:--|:-:|
-|下载[Obsidian](https://obsidian.md/download)|![下载Obsidian](https://github.com/XColorful/Politics-Obsidian-Note/raw/2025-GPLv3/Wiki/download%20Obsidian.png)|
-|打开本地仓库（Open folder as vault）|![打开本地仓库](https://github.com/XColorful/Politics-Obsidian-Note/raw/2025-GPLv3/Wiki/Open%20folder%20as%20vault.png)|
-|选择本地仓库目录（`Politics-Obsidian-Note`）|![选择本地仓库目录](https://github.com/XColorful/Politics-Obsidian-Note/raw/2025-GPLv3/Wiki/Select%20Folder.png)|
-|点击`信任作者并启用插件`则自动与[笔记展示](https://github.com/XColorful/Politics-Obsidian-Note#笔记展示)效果相同|![你是否信任这个仓库的作者](https://github.com/XColorful/Politics-Obsidian-Note/raw/2025-GPLv3/Wiki/Do%20you%20trust%20the%20author%20of%20this%20vault.png)|
+|下载[Obsidian](https://obsidian.md/download)|![下载Obsidian](https://github.com/XColorful/Politics-Obsidian-Note/raw/2025/Wiki/download%20Obsidian.png)|
+|打开本地仓库（Open folder as vault）|![打开本地仓库](https://github.com/XColorful/Politics-Obsidian-Note/raw/2025/Wiki/Open%20folder%20as%20vault.png)|
+|选择本地仓库目录（`Politics-Obsidian-Note`）|![选择本地仓库目录](https://github.com/XColorful/Politics-Obsidian-Note/raw/2025/Wiki/Select%20Folder.png)|
+|点击`信任作者并启用插件`则自动与[笔记展示](https://github.com/XColorful/Politics-Obsidian-Note#笔记展示)效果相同|![你是否信任这个仓库的作者](https://github.com/XColorful/Politics-Obsidian-Note/raw/2025/Wiki/Do%20you%20trust%20the%20author%20of%20this%20vault.png)|
 
 ### 同步笔记更新
 
 |说明|图片|
 |:--|:-:|
-|打开[Github Desktop](https://github.com/apps/desktop)，点击`Fetch origin`|![Fetch origin](https://github.com/XColorful/Politics-Obsidian-Note/raw/2025-GPLv3/Wiki/Fetch%20origin.png)|
-|如有更新则点击`Pull origin`即可|![Pull origin](https://github.com/XColorful/Politics-Obsidian-Note/raw/2025-GPLv3/Wiki/Pull%20origin.png)|
-|（可选）点击`Current branch`，可以查看是否有其他分支（Branch）更新|![点击Current branch](https://github.com/XColorful/Politics-Obsidian-Note/raw/2025-GPLv3/Wiki/Current%20branch.png)|
+|打开[Github Desktop](https://github.com/apps/desktop)，点击`Fetch origin`|![Fetch origin](https://github.com/XColorful/Politics-Obsidian-Note/raw/2025/Wiki/Fetch%20origin.png)|
+|如有更新则点击`Pull origin`即可|![Pull origin](https://github.com/XColorful/Politics-Obsidian-Note/raw/2025/Wiki/Pull%20origin.png)|
+|（可选）点击`Current branch`，可以查看是否有其他分支（Branch）更新|![点击Current branch](https://github.com/XColorful/Politics-Obsidian-Note/raw/2025/Wiki/Current%20branch.png)|
 
 ### 个性化与协作
 
@@ -44,15 +44,15 @@
 
 |说明|图片|
 |:--|:-:|
-|到[仓库页面](https://github.com/XColorful/Politics-Obsidian-Note)点击`<>Code ▼`右上角的`Fork`|![Fork](https://github.com/XColorful/Politics-Obsidian-Note/raw/2025-GPLv3/Wiki/Fork.png)|
-|点击`Create fork`|![创建Fork](https://github.com/XColorful/Politics-Obsidian-Note/raw/2025-GPLv3/Wiki/Create%20fork.png)|
+|到[仓库页面](https://github.com/XColorful/Politics-Obsidian-Note)点击`<>Code ▼`右上角的`Fork`|![Fork](https://github.com/XColorful/Politics-Obsidian-Note/raw/2025/Wiki/Fork.png)|
+|点击`Create fork`|![创建Fork](https://github.com/XColorful/Politics-Obsidian-Note/raw/2025/Wiki/Create%20fork.png)|
 |在自己的仓库界面[下载笔记](#下载笔记)，即可得到自己的专属版本||
 
 #### 2. 提交修改
 
 |说明|图片|
 |:--|:-:|
-|对笔记进行修改后（如添加自己的内容、修改笔记错误等），在[Github Desktop](https://github.com/apps/desktop)里填写`Summary`、`Description`（可选）后，点击`Commit x files to xxx`即可|![提交修改](https://github.com/XColorful/Politics-Obsidian-Note/raw/2025-GPLv3/Wiki/Commit%20x%20files%20to%20xxx.png)|
+|对笔记进行修改后（如添加自己的内容、修改笔记错误等），在[Github Desktop](https://github.com/apps/desktop)里填写`Summary`、`Description`（可选）后，点击`Commit x files to xxx`即可|![提交修改](https://github.com/XColorful/Politics-Obsidian-Note/raw/2025/Wiki/Commit%20x%20files%20to%20xxx.png)|
 
 #### 3. 多人协作
 
@@ -66,16 +66,16 @@
 
 |说明|图片|
 |:--|:-:|
-|点击`New branch`|![新建分支](https://github.com/XColorful/Politics-Obsidian-Note/raw/2025-GPLv3/Wiki/New%20branch.png)|
-|发布分支|![发布分支](https://github.com/XColorful/Politics-Obsidian-Note/raw/2025-GPLv3/Wiki/Publish%20branch.png)|
+|点击`New branch`|![新建分支](https://github.com/XColorful/Politics-Obsidian-Note/raw/2025/Wiki/New%20branch.png)|
+|发布分支|![发布分支](https://github.com/XColorful/Politics-Obsidian-Note/raw/2025/Wiki/Publish%20branch.png)|
 |提交修改（Commit）||
 
 ##### 合并分支
 
 |说明|图片|
 |:--|:-:|
-|在[Github Desktop](https://github.com/apps/desktop)里点击`Create Pull Request`|![创建PR](https://github.com/XColorful/Politics-Obsidian-Note/raw/2025-GPLv3/Wiki/Create%20Pull%20Request.png)|
-|在弹出的网页里点击`Create Pull Request`|![打开PR](https://github.com/XColorful/Politics-Obsidian-Note/raw/2025-GPLv3/Wiki/Open%20a%20pull%20request.png)|
+|在[Github Desktop](https://github.com/apps/desktop)里点击`Create Pull Request`|![创建PR](https://github.com/XColorful/Politics-Obsidian-Note/raw/2025/Wiki/Create%20Pull%20Request.png)|
+|在弹出的网页里点击`Create Pull Request`|![打开PR](https://github.com/XColorful/Politics-Obsidian-Note/raw/2025/Wiki/Open%20a%20pull%20request.png)|
 
 #### 4. 笔记Issue
 
@@ -83,9 +83,9 @@
 
 |说明|图片|
 |:--|:-:|
-|到[仓库界面](https://github.com/XColorful/Politics-Obsidian-Note)点击左上角的[Issue](https://github.com/XColorful/Politics-Obsidian-Note/issues)|![Issues](https://github.com/XColorful/Politics-Obsidian-Note/raw/2025-GPLv3/Wiki/Issues.png)|
-|点击绿色的`New issue`|![新Issue](https://github.com/XColorful/Politics-Obsidian-Note/raw/2025-GPLv3/Wiki/New%20issue.png)|
-|描述完之后点击`Create`即可|![创建新Issue](https://github.com/XColorful/Politics-Obsidian-Note/raw/2025-GPLv3/Wiki/Create%20New%20issue.png)|
+|到[仓库界面](https://github.com/XColorful/Politics-Obsidian-Note)点击左上角的[Issue](https://github.com/XColorful/Politics-Obsidian-Note/issues)|![Issues](https://github.com/XColorful/Politics-Obsidian-Note/raw/2025/Wiki/Issues.png)|
+|点击绿色的`New issue`|![新Issue](https://github.com/XColorful/Politics-Obsidian-Note/raw/2025/Wiki/New%20issue.png)|
+|描述完之后点击`Create`即可|![创建新Issue](https://github.com/XColorful/Politics-Obsidian-Note/raw/2025/Wiki/Create%20New%20issue.png)|
 
 ### 脚本
 
@@ -94,8 +94,8 @@
 
 |说明|图片|
 |:--|:-:|
-|下载[Python](https://www.python.org/)|![下载Python](https://github.com/XColorful/Politics-Obsidian-Note/raw/2025-GPLv3/Wiki/download%20python.png)|
-|运行仓库根目录的`移除行首标签.cmd`或`恢复行首标签.cmd`即可（打开后按一下回车就行）|[移除行首标签](移除行首标签.cmd)![移除行首标签.cmd](https://github.com/XColorful/Politics-Obsidian-Note/raw/2025-GPLv3/Wiki/mask%20tag.png)[恢复行首标签](恢复行首标签.cmd)![恢复行首标签.cmd](https://github.com/XColorful/Politics-Obsidian-Note/raw/2025-GPLv3/Wiki/unmask%20tag.png)|
+|下载[Python](https://www.python.org/)|![下载Python](https://github.com/XColorful/Politics-Obsidian-Note/raw/2025/Wiki/download%20python.png)|
+|运行仓库根目录的`移除行首标签.cmd`或`恢复行首标签.cmd`即可（打开后按一下回车就行）|[移除行首标签](移除行首标签.cmd)![移除行首标签.cmd](https://github.com/XColorful/Politics-Obsidian-Note/raw/2025/Wiki/mask%20tag.png)[恢复行首标签](恢复行首标签.cmd)![恢复行首标签.cmd](https://github.com/XColorful/Politics-Obsidian-Note/raw/2025/Wiki/unmask%20tag.png)|
 
 > 💡使用建议（避坑指南）：
 > - 运行前：若已修改笔记，请务必先完成`Commit x files to xxx`
