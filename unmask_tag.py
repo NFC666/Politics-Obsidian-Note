@@ -13,8 +13,8 @@ def unmask_tags():
         print(f"错误：路径 '{target_dir}' 不存在！")
         return
 
-    # 正则：匹配两个 #，且前后都不是 #
-    pattern = re.compile(r'(?<!#)##(?!#)')
+    # 正则：(?![#\s]) 确保 ## 后面跟的是标签字符，而不是空格(标题)或换行
+    pattern = re.compile(r'(?<!#)##(?![#\s])')
 
     print(f"正在还原目录: {target_dir} ...")
     count = 0
@@ -29,8 +29,10 @@ def unmask_tags():
                     
                     if lines:
                         # 仅处理第一行
-                        new_first_line = pattern.sub('#', lines[0])
-                        if new_first_line != lines[0]:
+                        old_line = lines[0]
+                        new_first_line = pattern.sub('#', old_line)
+                        
+                        if new_first_line != old_line:
                             lines[0] = new_first_line
                             with open(file_path, 'w', encoding='utf-8') as f:
                                 f.writelines(lines)

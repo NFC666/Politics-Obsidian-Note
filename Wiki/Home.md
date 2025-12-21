@@ -99,5 +99,5 @@
 
 > 💡使用建议（避坑指南）：
 > - 运行前：若已修改笔记，请务必先完成`Commit x files to xxx`
-> - 纯查看：运行脚本查看完图谱后，直接在[Github Desktop](https://github.com/apps/desktop)中全选修改，右键点击`Discard changes`即可还原
+> - 纯查看：运行脚本查看完图谱，再`恢复行首标签`后如果[Github Desktop](https://github.com/apps/desktop)里修改没清除，则直接全选修改，右键点击`Discard changes`即可还原
 > - 有修改：若在移除标签期间修改了笔记，请先运行`恢复行首标签.cmd`，确认无误后再`Commit x files to xxx`
