@@ -5,7 +5,7 @@
 |[马原](马原/马克思主义基本原理.md)|[Python](https://www.python.org/)|[Obsidian](https://obsidian.md/download)|
 |[思修](思修/思想道德与法治.md)|[移除行首标签](移除行首标签.cmd)|[Github Desktop](https://github.com/apps/desktop)|
 |[史纲](史纲/中国近代史纲要.md)|[恢复行首标签](恢复行首标签.cmd)|[笔记仓库页面](https://github.com/XColorful/Politics-Obsidian-Note)|
-|[毛中特](毛中特/毛泽东思想和中国特色社会主义理论体系概论.md)||[笔记仓库Issue](https://github.com/XColorful/Politics-Obsidian-Note/issues)|
+|[毛中特](毛中特/毛泽东思想和中国特色社会主义理论体系概论.md)|[替换首行字符串](替换首行字符串.cmd)|[笔记仓库Issue](https://github.com/XColorful/Politics-Obsidian-Note/issues)|
 |[新思想](新思想/习近平新时代中国特色社会主义思想概论.md)||[笔记仓库Wiki](https://github.com/XColorful/Politics-Obsidian-Note/wiki)|
 
 ## 使用说明
