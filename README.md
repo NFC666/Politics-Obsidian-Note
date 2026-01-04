@@ -9,7 +9,7 @@
 |[新思想](新思想/习近平新时代中国特色社会主义思想概论.md)||[笔记仓库Wiki](https://github.com/XColorful/Politics-Obsidian-Note/wiki)|
 
 ## 使用说明
-> 💡我是小白，点击查看[图文教程](https://github.com/XColorful/Politics-Obsidian-Note/wiki)😀（笔记内查看[[Home|离线版教程]]）
+> 💡我是小白，点击查看[图文教程](https://github.com/XColorful/Politics-Obsidian-Note/wiki)😀（笔记内查看[离线版教程](./Wiki/Home.md)）
 
 ### 下载笔记
 1. 下载[Github Desktop](https://desktop.github.com/download/)，到[仓库页面](https://github.com/XColorful/Politics-Obsidian-Note)点击绿色的`<>Code ▼`，点击`Open with Github Desktop`
