@@ -5,11 +5,11 @@
 |[马原](马原/马克思主义基本原理.md)|[Python](https://www.python.org/)|[Obsidian](https://obsidian.md/download)|
 |[思修](思修/思想道德与法治.md)|[移除行首标签](移除行首标签.cmd)|[Github Desktop](https://github.com/apps/desktop)|
 |[史纲](史纲/中国近代史纲要.md)|[恢复行首标签](恢复行首标签.cmd)|[笔记仓库页面](https://github.com/XColorful/Politics-Obsidian-Note)|
-|[毛中特](毛中特/毛泽东思想和中国特色社会主义理论体系概论.md)||[笔记仓库Issue](https://github.com/XColorful/Politics-Obsidian-Note/issues)|
+|[毛中特](毛中特/毛泽东思想和中国特色社会主义理论体系概论.md)|[替换首行字符串](替换首行字符串.cmd)|[笔记仓库Issue](https://github.com/XColorful/Politics-Obsidian-Note/issues)|
 |[新思想](新思想/习近平新时代中国特色社会主义思想概论.md)||[笔记仓库Wiki](https://github.com/XColorful/Politics-Obsidian-Note/wiki)|
 
 ## 使用说明
-> 💡我是小白，点击查看[图文教程](https://github.com/XColorful/Politics-Obsidian-Note/wiki)😀
+> 💡我是小白，点击查看[图文教程](https://github.com/XColorful/Politics-Obsidian-Note/wiki)😀（笔记内查看[[Home|离线版教程]]）
 
 ### 下载笔记
 1. 下载[Github Desktop](https://desktop.github.com/download/)，到[仓库页面](https://github.com/XColorful/Politics-Obsidian-Note)点击绿色的`<>Code ▼`，点击`Open with Github Desktop`
@@ -30,7 +30,7 @@
 ### 脚本
 
 #### 移除行首标签
-> 临时移除所有笔记第一行的'#选择题'、'#重点'、'#非重点'标签，让[关系图谱](https://publish.obsidian.md/help-zh/%E6%A0%B8%E5%BF%83%E6%8F%92%E4%BB%B6/%E5%85%B3%E7%B3%BB%E5%9B%BE%E8%B0%B1)（`Ctrl` + `G`）更纯净
+> 临时移除所有笔记第一行的标签（如'#选择题'、'#重点'、'#非重点'等），让[关系图谱](https://publish.obsidian.md/help-zh/%E6%A0%B8%E5%BF%83%E6%8F%92%E4%BB%B6/%E5%85%B3%E7%B3%BB%E5%9B%BE%E8%B0%B1)（`Ctrl` + `G`）更纯净
 1. 下载[Python](https://www.python.org/)
 2. 运行仓库根目录的`移除行首标签.cmd`或`恢复行首标签.cmd`即可（笔记内快捷方式：[移除行首标签](移除行首标签.cmd)、[恢复行首标签](恢复行首标签.cmd)）
 
@@ -43,23 +43,23 @@
 
 |[马克思主义基本原理](马原/马克思主义基本原理.md)|[考点14 主观能动性和客观规律性的辩证统一](马原/b%20马克思主义哲学/1%20辩证唯物论/考点14%20主观能动性和客观规律性的辩证统一.md)|
 |:-:|:-:|
-|![马原目录](马原目录.png)|![主观能动性和客观规律性](主观能动性和客观规律性.png)|
+|![马原目录](./README/马原目录.png)|![主观能动性和客观规律性](./README/主观能动性和客观规律性.png)|
 
 |[考点18 对立统一规律(唯物辩证法第一规律)](马原/b%20马克思主义哲学/2%20唯物辩证法/考点18%20对立统一规律(唯物辩证法第一规律).md)|[考点31 实践对认识的决定作用](马原/b%20马克思主义哲学/3%20认识论/考点31%20实践对认识的决定作用.md)|
 |:-:|:-:|
-|![对立统一规律](对立统一规律.png)|![实践对认识的决定作用](实践对认识的决定作用.png)|
+|![对立统一规律](./README/对立统一规律.png)|![实践对认识的决定作用](./README/实践对认识的决定作用.png)|
 
 |[考点67 剩余价值的再生产](马原/c%20马克思主义政治经济学/5%20资本主义的本质及规律/考点67%20剩余价值的生产.md)|[考点15 新民主主义社会的性质和特点](毛中特/b%20毛泽东思想/3%20社会主义改造理论/考点15%20新民主主义社会的性质和特点.md)|
 |:-:|:-:|
-|![三个角度分析卖包子](三个角度分析卖包子.png)|![新民主主义社会五种经济成分](新民主主义社会五种经济成分.png)|
+|![三个角度分析卖包子](./README/三个角度分析卖包子.png)|![新民主主义社会五种经济成分](./README/新民主主义社会五种经济成分.png)|
 
 |[移除行首标签](移除行首标签.cmd)|[恢复行首标签](恢复行首标签.cmd)|
 |:-:|:-:|
-|![移除行首标签](移除行首标签.png)|![恢复行首标签](恢复行首标签.png)|
+|![移除行首标签](./README/移除行首标签.png)|![恢复行首标签](./README/恢复行首标签.png)|
 
 |[星星之火](毛中特/b%20毛泽东思想/2%20新民主主义革命理论/考点12%20新民主主义革命的道路.md)|[可以燎原](史纲/b%20新民主主义革命时期/5%20中国革命的新道路/考点43%20农村包围城市、武装夺取政权的道路.md)|
 |:-:|:-:|
-|![Markdown纯文本格式](星星之火.png)|![Obsidian标签、悬浮显示双链笔记](可以燎原.png)|
+|![Markdown纯文本格式](./README/星星之火.png)|![Obsidian标签、悬浮显示双链笔记](./README/可以燎原.png)|
 
 ## 在开源中相遇，在实践中改变
 
