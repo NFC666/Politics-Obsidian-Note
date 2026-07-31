@@ -8,3 +8,6 @@ community-plugins.json
 core-plugins.json
 graph.json
 types.json
+
+# Python
+__pycache__/
