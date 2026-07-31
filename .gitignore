@@ -9,5 +9,8 @@ core-plugins.json
 graph.json
 types.json
 
+# 数据库文件
+*.db
+
 # Python
 __pycache__/
