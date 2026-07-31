@@ -86,10 +86,11 @@ CREATE INDEX idx_note_links_target ON note_links(target_note_id);
 """
 
 NOTE_RE = re.compile(r"^(考点|总结&扩展)(\d+)\s*(.+)\.md$")
-TAG_RE = re.compile(r"(?<!#)#(?!#)([^\s#][^#\n]*)")
+TAG_RE = re.compile(r"(?<!#)#(?!#)([^\s#][^#|\\*\[\]`\n]*)")
 WIKILINK_RE = re.compile(r"!?\[\[([^\]]+)\]\]")
 FL_TAG_RE = re.compile(r"^#(马原|毛中特|思修|史纲|新思想)(选择题|分析题|重点|非重点)$")
 IMAGE_EXTS = (".png", ".jpg", ".jpeg", ".gif", ".svg", ".webp", ".canvas")
+SUBJECT_INDEX_NAMES = set(SUBJECTS.values())
 
 
 def parse_first_line_tag(first_line: str):
@@ -284,6 +285,8 @@ def main():
                     target_path = None
                 elif kind != "ambiguous":
                     if "#" in target:
+                        kind = "subject_index"
+                    elif base in SUBJECT_INDEX_NAMES or base.removesuffix(".md") in SUBJECT_INDEX_NAMES:
                         kind = "subject_index"
                     else:
                         kind = "other"
